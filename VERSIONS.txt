@@ -4,3 +4,9 @@
     - Announces superimposed
   Changes:
     - Spigot page
+
+2.1 version:
+  Fixes:
+    - Some bugs
+  Changes:
+    - Made more intuitive for the setting part
