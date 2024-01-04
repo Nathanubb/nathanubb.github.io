@@ -1,7 +1,0 @@
-name: RewardADs
-version: 2.0
-main: it.nathanub.RewardADs.Main
-author: ["Nathanub", "Kutateki_"]
-commands:
-  rewardads:
-    description: Spam message and main command
