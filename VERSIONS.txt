@@ -10,3 +10,12 @@
     - Some bugs
   Changes:
     - Made more intuitive for the setting part
+
+3.0 version:
+  Fixed:
+    - security vulnerabilities, instead of http, https
+    - added mysql database for more security
+  Changes:
+    - bring the wiki to rewardads.vpsgh.it/wiki
+  Added:
+    - a simple configuration available on rewardads.vpsgh.it
