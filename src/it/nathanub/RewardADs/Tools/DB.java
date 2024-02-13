@@ -15,7 +15,7 @@ public class DB {
 	public DB() {
 		String url = "jdbc:mysql://185.229.236.154:3306/rewardads?useSSL=true";
         String username = "root";
-        String password = "Asilo@05";
+        String password = "password";
 
         databaseManager = new DatabaseManager(url, username, password);
 	}
