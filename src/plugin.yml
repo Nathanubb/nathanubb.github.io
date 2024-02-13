@@ -1,5 +1,5 @@
 name: RewardADs
-version: 3.0
+version: 4.0
 main: it.nathanub.RewardADs.Main
 author: ["Nathanub", "Kutateki_"]
 commands:
