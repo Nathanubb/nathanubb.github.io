@@ -20,4 +20,4 @@
 * rewardads.admin
 
 # Contacts
-* [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+* [Contribution guidelines for this project](https://rewardads.it)
