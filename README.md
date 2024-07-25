@@ -1,3 +1,10 @@
+# Contacts
+* [Website](https://rewardads.it)
+* [Discord](https://discord.gg/wFxxxWuA5k)
+* [Github](https://github.com/Nathanubb/rewardads)
+* Email: help@rewardads.it
+
+
 # Minecraft
 
 ## Dependencies
@@ -18,6 +25,3 @@
 
 ## Permissions:
 * rewardads.admin
-
-# Contacts
-* [Contribution guidelines for this project](https://rewardads.it)
