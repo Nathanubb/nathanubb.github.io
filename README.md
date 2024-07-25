@@ -2,7 +2,7 @@
 * [Website](https://rewardads.it)
 * [Discord](https://discord.gg/wFxxxWuA5k)
 * [Github](https://github.com/Nathanubb/rewardads)
-* Email: help@rewardads.it
+* [Email](help@rewardads.it)
 
 
 # Minecraft
