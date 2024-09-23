@@ -5,7 +5,18 @@
 * [Email](mailto:youremail@example.com)
 
 
-# Minecraft
+# Library Minecraft
+
+## Api
+* Server={getName(), isValid()}
+* Rewards={getList()}
+* Buy={handle(RewardADsPlugin, playerName, idReward, nameReward, costRewards)}
+* OnBuy={
+          @EventHandler
+          public void onBuy(OnBuy event) {}
+  }
+  
+  event has {getPlugin(), getPlayer(), getNameReward(), getIdReward(), getCostReward(), getCode()}
 
 ## Dependencies
 * PlaceholderAPI
