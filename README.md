@@ -19,8 +19,8 @@
   event has {getPlugin(), getPlayer(), getNameReward(), getIdReward(), getCostReward(), getCode()}
 
   to parse RewardADs plugin, you can use:
-  PluginManager pluginManager = Bukkit.getPluginManager();
-  Plugin RewardADs = pluginManager.getPlugin("RewardADs");
+  `PluginManager pluginManager = Bukkit.getPluginManager();
+  Plugin RewardADs = pluginManager.getPlugin("RewardADs");`
 
 ## Dependencies
 * PlaceholderAPI
