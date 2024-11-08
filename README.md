@@ -2,7 +2,7 @@
 * [Website](https://rewardads.it)
 * [Discord](https://discord.gg/wFxxxWuA5k)
 * [Github](https://github.com/Nathanubb/rewardads)
-* [Email](mailto:youremail@example.com)
+* [Email](mailto:help@rewardads.it)
 
 
 # Library Minecraft
